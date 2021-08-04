@@ -3,7 +3,6 @@
     "description": "A simple Laravel Facade to retrieve typeform responses and to manage webhooks calls",
     "type": "library",
     "require": {
-        "php": ">=7.0",
         "guzzlehttp/guzzle": "*",
         "laravel/framework": "*",
         "illuminate/config": "*"
