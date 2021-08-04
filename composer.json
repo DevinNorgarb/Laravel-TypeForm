@@ -4,9 +4,9 @@
     "type": "library",
     "require": {
         "php": ">=7.0",
-        "guzzlehttp/guzzle": "^6.3",
-        "laravel/framework": "~5.4",
-        "illuminate/config": "~5.4"
+        "guzzlehttp/guzzle": "*",
+        "laravel/framework": "*",
+        "illuminate/config": "*"
     },
     "require-dev": {
         "orchestra/testbench": "~3.0"
